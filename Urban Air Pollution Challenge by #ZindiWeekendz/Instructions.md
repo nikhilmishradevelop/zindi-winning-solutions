@@ -4,7 +4,7 @@
 2. Change the data path from '/kaggle/input' to where the files are stored in your local machine.
 3. Finally run the notebook zindi-weekendz-pollution-blend.ipynb, to generate the final output file, **submission.csv**
 
-##Approach
+## Approach
 
 Only the first notebook **zindi-weekendz-pollution-v1.ipynb** has comments added, because all the notebooks are almost same.
 
